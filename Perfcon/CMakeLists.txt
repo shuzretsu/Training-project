@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
-project(ArtificiusSystem)
+project(Perfcon)
 
 set(CMAKE_CXX_STANDARD 17)
 
 find_package(pybind11 REQUIRED)
 
-add_executable(artificius_system main.cpp system.cpp)
+add_executable(Perfcon main.cpp system.cpp)
 
-target_link_libraries(artificius_system PRIVATE pybind11::embed)
+target_link_libraries(Perfcon PRIVATE pybind11::embed)
