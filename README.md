@@ -1,6 +1,6 @@
 # Training Project
 
-This repository will contains various training simple projects I make to enhance and explore different programming techniques and technologies.
+This repository will contains various simple projects I make to enhance and explore different programming
 
 ## Projects List
 
