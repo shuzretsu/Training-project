@@ -1,0 +1,9 @@
+[package]
+name = "file_monitor"
+version = "0.1.0"
+authors = ["Artificius Artemas"]
+edition = "2021"
+
+[dependencies]
+# Minimal dependencies
+libc = "0.2" # For interacting with inotify (Linux)
