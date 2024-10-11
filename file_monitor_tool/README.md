@@ -1,4 +1,4 @@
-### 2. Real-time file integrity monitoring 
+### Real-time file integrity monitoring 
 
 **Description**:  
 It is a real-time file integrity monitoring tool built in Rust. It detects unauthorized changes in specified directories, logs events, and ensures system security with minimal overhead.
