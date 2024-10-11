@@ -5,6 +5,5 @@ This repository will contains various simple projects I make to enhance and expl
 ## Projects List
 ---
 ## 1. PerfCon
-
-`PerfCon (Performance Control System) [...] <https://github.com/shuzretsu/Training-project/tree/main/Perfcon>`
+- [PerfCon (Performance Control System)](https://github.com/shuzretsu/Training-project/tree/main/Perfcon)
 
